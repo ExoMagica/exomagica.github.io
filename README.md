@@ -1,0 +1,2 @@
+#Website
+Hi, this is our website! http://exomagica.github.io/! If you feel like adding something, feel free to make a pull request, but remember to always follow the guidelines provided at http://exomagica.github.io/request-guidelines/!
